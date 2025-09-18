@@ -1,7 +1,6 @@
 {
   "scripts": {
     "start": "node server.js",
-    "build": "npm run build"
   },
   "name": "leave_management",
   "version": "1.0.0",
